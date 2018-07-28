@@ -1,6 +1,6 @@
 # ColorPickerView
 
-ColorPickerView is a fully loaded color picker view for Android that you can use in your dialogs as well as embedd into the layout files. ColorPickerView is implemented as a subclass of FrameLayout. So it will fit anywhere a regular Android View will go into.
+ColorPickerView is a fully loaded color picker view for Android that you can use in your dialogs as well as embed into layout files. ColorPickerView is implemented as a subclass of FrameLayout. So it will fit anywhere a regular Android View will go into.
 
 Here is a quick list of the features:
 * Select RGBA with selective enabling for alpha.
