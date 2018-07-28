@@ -8,3 +8,5 @@ Here is a quick list of the features:
 * A realtime color preview.
 * Embedd into any Android layout or dialog.
 
+# Screenshot
+![Screenshot of ColorPickerView](https://github.com/SureshkumarKV/ColorPickerView/blob/master/images/capture.png)
