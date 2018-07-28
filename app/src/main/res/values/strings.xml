@@ -1,0 +1,4 @@
+<resources>
+	<string name="message_hexinput">Enter a valid hex number.</string>
+	<string name="preview">Preview</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="text_item_row" parent="@android:style/TextAppearance.Small">
+        <item name="android:textSize">14dp</item>
+        <item name="android:textColor">#ff6f6f6f</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:colorEdgeEffect">?android:colorAccent</item>
+    </style>
+
+</resources>
